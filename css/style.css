@@ -130,3 +130,37 @@
 	margin-bottom: 12px;
 	font-family: 'BPG Mikheil Stefane';
 }
+/*contact*/
+.background {
+	width: 100%;
+	background-color: #E6E6E6;
+}
+.contact {
+	width: 1170px;
+	margin: 63px auto 0 auto;
+}
+.info {
+	display: inline-block;
+	margin: 150px  0 0 60px;
+}
+.info-title {
+	color: #3D58A6;
+	font-size: 20px;
+	margin-bottom: 8px;
+	font-family: "ALKDots", sans-serif;
+}
+.infolist {
+	margin-bottom: 5px;
+}
+.span {
+	color: #808080;
+}
+.info-text {
+	color: black;
+	font-family: 'BPG Algeti Compact';
+}
+.map {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 50px;
+}
