@@ -58,3 +58,19 @@
 	margin-left: 62px;
 	font-size: 20px;
 }
+/*footer*/
+.footer {
+	width: 1170px;
+	margin: 70px auto 0 auto;
+}
+.foot-icon {
+	display: inline-block;
+	margin-right: 35px;
+}
+.stick {
+	width: 2px;
+	height: 30px;
+	background-color: #3D58A6;
+	display: inline-block;
+	margin-right: 26px;
+}
