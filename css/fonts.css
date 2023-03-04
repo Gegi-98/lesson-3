@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BPG ExtraSquare';
+    src: url('../fonts/bpg-extrasquare-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-extrasquare-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-extrasquare-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-extrasquare-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-extrasquare-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-extrasquare-webfont.svg#bpg_extrasquareregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Gajraj One';
+    src: url('../fonts/GajrajOne-Regular.eot');
+    src: url('../fonts/GajrajOne-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GajrajOne-Regular.woff2') format('woff2'),
+        url('../fonts/GajrajOne-Regular.woff') format('woff'),
+        url('../fonts/GajrajOne-Regular.ttf') format('truetype'),
+        url('../fonts/GajrajOne-Regular.svg#GajrajOne-Regular') format('svg');
+     font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

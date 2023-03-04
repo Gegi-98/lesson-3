@@ -13,9 +13,11 @@
 	font-size: 22px;
 	display: inline-block;
 	margin-right: 18px;
+
 }
 .nav-a {
 	color: #3D58A6;
+	font-family: 'BPG ExtraSquare';
 }
 /*home-section*/
 .banner {
@@ -30,6 +32,7 @@
 }
 .title-blocks {
 	font-size: 24px;
+	font-family: 'Shantell Sans', cursive;
 }
 .block1 {
 	width: 570px;
@@ -47,6 +50,9 @@
 	font-size: 22px;
 	color: #3D58A6;
 	margin-bottom: 13px;
+	font-family: 'Gajraj One';
+
+
 }
 .block-img {
 	display: inline-block;
@@ -57,6 +63,7 @@
 	vertical-align: top;
 	margin-left: 62px;
 	font-size: 20px;
+	font-family: 'Caveat', cursive;
 }
 /*footer*/
 .footer {
