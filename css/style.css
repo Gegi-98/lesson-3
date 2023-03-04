@@ -1,4 +1,8 @@
 /*header*/
+.header {
+	width: 1170px;
+	margin: 0 auto;
+}
 .logo {
 	margin: 30px 0 0 30px;
 	display: inline-block;
@@ -85,4 +89,44 @@
 	background-color: #3D58A6;
 	display: inline-block;
 	margin-right: 26px;
+}
+/*news page*/
+.article {
+	width: 1170px;
+	margin: 0 auto;
+}
+.bluebox {
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 37px;
+	padding: 10px 0 0 10px;
+	color: white;
+	font-family: 'Lora', serif;
+}
+.date {
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: "ArchyEDT-Bold", sans-serif;
+	margin-left: 4px;
+}
+.article-title {
+	font-size: 30px;
+	margin-top: 17px;
+	margin-bottom: 15px;
+	font-family: "ALK Tall Mtavruli", sans-serif;
+}
+.article-img {
+	display: inline-block;
+}
+.div-article-text {
+	display: inline-block;
+	width: 850px;
+	vertical-align: top;
+}
+.article-text {
+	font-size: 18px;
+	margin-left: 15px;
+	margin-bottom: 12px;
+	font-family: 'BPG Mikheil Stefane';
 }
